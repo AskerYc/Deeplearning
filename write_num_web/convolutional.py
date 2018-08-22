@@ -21,7 +21,7 @@ saver = tf.train.Saver(variables)
 
 with tf.Session() as sess:
     merged_summary_op = tf.summary.merge_all()
-    summay_writer = tf.summary.FileWriter('D:/yc_projects/Deeplearning/write_num_web/data/conv_graph', sess.graph)
+    summay_writer = tf.summary.FileWriter('F:/Deeplearning/write_num_web/data/conv_graph', sess.graph)
     summay_writer.add_graph(sess.graph)
     sess.run(tf.global_variables_initializer())
 
@@ -32,7 +32,7 @@ with tf.Session() as sess:
             print("step %d, training accuracy %g" % (i, train_accuracy))
         sess.run(train_step, feed_dict={x: batch[0], y_: batch[1], keep_prob: 0.5})
 
-    # print(sess.run(accuracy, feed_dict={x: data.test.images, y_: data.test.labels, keep_prob: 1.0}))
+    print(sess.run(accuracy, feed_dict={x: data.test.images, y_: data.test.labels, keep_prob: 1.0}))
 
     path = saver.save(
         sess, os.path.join(os.path.dirname(__file__), 'data', 'convolutional'),

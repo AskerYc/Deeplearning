@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81f4040d-468d-4970-9baa-d7ede3a5b139" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/MNIST_data/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/MNIST_data/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/MNIST_data/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/MNIST_data/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/convolutional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/input_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_num_web/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Deeplearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Deeplearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convolutional_network/CIFAR-10_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/convolutional_network/CIFAR-10_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_library/models-master/tutorials/image/cifar10/cifar10.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_library/models-master/tutorials/image/cifar10/cifar10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softmax-writenum/my_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/softmax-writenum/my_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/write_num_web/convolutional.py" beforeDir="false" afterPath="$PROJECT_DIR$/write_num_web/convolutional.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/write_num_web/data/convolutional.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/write_num_web/data/convolutional.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/write_num_web/data/convolutional.index" beforeDir="false" afterPath="$PROJECT_DIR$/write_num_web/data/convolutional.index" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,26 +21,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="regression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/write_num_web/regression.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="convolutional.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/write_num_web/convolutional.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="30">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
-                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/write_num_web/main.py">
+      <file leaf-file-name="CIFAR-10_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/convolutional_network/CIFAR-10_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="665">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cifar10.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_library/models-master/tutorials/image/cifar10/cifar10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#1259#1297#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,18 +79,21 @@
         <option value="$PROJECT_DIR$/write_num_web/__init__.py" />
         <option value="$PROJECT_DIR$/write_num_web/regression.py" />
         <option value="$PROJECT_DIR$/write_num_web/model.py" />
-        <option value="$PROJECT_DIR$/write_num_web/convolutional.py" />
         <option value="$PROJECT_DIR$/write_num_web/src/main.js" />
         <option value="$PROJECT_DIR$/write_num_web/static/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/write_num_web/static/js/jquery.min.js" />
         <option value="$PROJECT_DIR$/write_num_web/templates/index.html" />
         <option value="$PROJECT_DIR$/write_num_web/main.py" />
+        <option value="$PROJECT_DIR$/write_num_web/convolutional.py" />
+        <option value="$PROJECT_DIR$/softmax-writenum/my_test.py" />
+        <option value="$PROJECT_DIR$/data_library/models-master/tutorials/image/cifar10/cifar10.py" />
+        <option value="$PROJECT_DIR$/convolutional_network/CIFAR-10_test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="448" />
+    <option name="y" value="109" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -102,22 +109,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="Deeplearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deeplearning" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Deeplearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deeplearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Denoising_AutoEncoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deeplearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deeplearning" type="462c0819:PsiDirectoryNode" />
-              <item name="write_num_web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deeplearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
+              <item name="convolutional_network" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,6 +126,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Deeplearning" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Deeplearning" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -146,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.convolutional">
     <configuration name="convolutional" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,8 +216,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.convolutional" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.regression" />
       </list>
     </recent_temporary>
@@ -228,25 +236,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="448" y="109" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1799133" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32918552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -256,37 +264,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Program Files/Python36/Lib/site-packages/tensorflow/python/ops/array_ops.py">
+    <entry file="file://$PROJECT_DIR$/write_num_web/regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        <state relative-caret-position="456">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python36/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+    <entry file="file://$PROJECT_DIR$/write_num_web/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="1041" selection-start-line="1041" selection-end-line="1041" />
+        <state relative-caret-position="684">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/tensorflow/python/ops/array_ops.py" />
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py" />
     <entry file="file://$PROJECT_DIR$/Denoising_AutoEncoder/Denoising_AutoEncoder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="24" column="52" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="52" />
-          <folding>
-            <element signature="e#15#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/write_num_web/convolutional.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -304,9 +307,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -335,9 +335,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1406">
           <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/write_num_web/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#canvas#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -352,13 +358,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write_num_web/main.py">
+    <entry file="file://$PROJECT_DIR$/softmax-writenum/my_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#22#45#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/write_num_web/convolutional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_library/models-master/tutorials/image/cifar10/cifar10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding>
+            <element signature="e#1259#1297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convolutional_network/CIFAR-10_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
